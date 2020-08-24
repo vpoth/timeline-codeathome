@@ -3,28 +3,44 @@
     description: |
       You join the community and get access to our learning platform edyoucated.
 
-      Get ready to learn!
+      We present our four tracks, you choose one and create your personal TechLabs journey based on your previous knowledge
     startWeekNum: 36
     duration: 1
 
-  - title: Academy
+  - title: Online Learning
     description: |
       You work through your track on edyoucated and become a master of your class.
 
-      We organize social events regularly so that you can connect with fellow Techies, share your insights and work together on difficulties.
-    startWeekNum: 36
+      You will be paired with your TrackStudy-Buddies. We organize remote social events and live sessions every wednesday so that you can connect with fellow Techies, share your insights and work together on difficulties.
+    startWeekNum: 37
     duration: 4
 
-  - title: Projects
+  - title: Project Application
     description: |
-      This is prime time! You imagine and implement a prototype in a project of your own.
+      Registration for the project phase.
 
-      You team up as a group of 4-6 Techies and work together to create something big. Experienced mentors will be on your side for support.
-    startWeekNum: 40
-    duration: 4
+      You team up as a group of 3-5 Techies.
+    startWeekNum: 41
+    duration: 1
+
+  - title: Online-Learning + Project
+    description: |
+      This is prime time!
+      You will work in a project team on a topic.
+
+      You team up as a group of 3-5 Techies and work together to create something big.
+      Experienced mentors will be on your side for support.
+    startWeekNum: 42
+    duration: 3
+
+  - title: Project Submission
+    description: |
+      You finish up your project and submit the final result to us.
+    startWeekNum: 45
+    duration: 1
 
   - title: Closing
     description: |
-      You finish up your prototype and submit the final result to us. We organize a closing ceremony where you will be given your Certificate.
-    startWeekNum: 45
+      We organize a closing ceremony to celebrate your results, afterwards you will be given your #codeathome Bootcamp certificate.
+    startWeekNum: 47
     duration: 1
