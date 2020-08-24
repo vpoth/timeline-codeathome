@@ -4,17 +4,14 @@
       <div class="card-content content">
         <h1 class="title">Frequently Asked Questions</h1>
         <p class="content">
-          For general questions regarding the TechLabs Digital Shaper program,
-          such as:
+          You can find answers to the most frequently asked questions below. If
+          you have further questions you are welcome to ask in our #codeathome
+          Slack channel. We will adapt the questions regularly, it is worth
+          taking a look at them from time to time!
         </p>
-        <ul>
-          <li>How much time to invest</li>
-          <li>What expenses you will have to pay</li>
-          <li>How to receive the Digital Shaper certificate</li>
-          <li>…</li>
-        </ul>
+
         <p class="content">
-          Please also have a look at the
+          Please also have a look at the TechLabs Wide FQAs
           <a
             href="https://techlabs.org/faq"
             target="_new"
