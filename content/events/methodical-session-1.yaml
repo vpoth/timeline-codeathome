@@ -15,9 +15,9 @@
   - title: "Zoom Meeting"
     description: Link to the Meeting.
     type: meeting
-    url: #TODO
-  - title: "Slides"
-    description: Slides of the event.
-    type: slides
-    url: #TODO
+    url: https://us02web.zoom.us/j/86533641825
+  #- title: "Slides"
+  #  description: Slides of the event.
+  #  type: slides
+  #  url: #TODO
 
