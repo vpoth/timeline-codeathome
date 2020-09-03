@@ -3,7 +3,7 @@
   name: Opening Ceremony
   date: "2020-09-02T20:00:00+02:00"
   description: |
-    In our opening ceremony, you hadthe chance to meet the #codeathome Bootcamp Team as well as the other Techies.
+    In our opening ceremony, you had the chance to meet the #codeathome Bootcamp Team as well as the other Techies.
 
     We provided information about the program and about what you can expect from the following 9 weeks.
 
@@ -11,6 +11,6 @@
   forms: []
   resources:
     - title: "Slides"
-      description: Slides of the event.
+      description: Slides of the opening ceremony.
       type: slides
       url: https://drive.google.com/file/d/1hsoSYX0XSSltnkKdbcwDpa6g-mhFD26-/view?usp=sharing
