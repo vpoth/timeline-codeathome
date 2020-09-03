@@ -91,3 +91,6 @@ sw.*
 
 # OneSignal SDK
 static/OneSignal*
+
+# Visual Studio
+.vs/
