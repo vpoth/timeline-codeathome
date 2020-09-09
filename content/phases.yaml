@@ -15,21 +15,20 @@
     startWeekNum: 37
     duration: 4
 
-  - title: Project Application
+  - title: Project Registration
     description: |
-      Registration for the project phase.
+      You team up as a group of 3-5 Techies and register for our #codeathome Project Phase.
 
-      You team up as a group of 3-5 Techies.
     startWeekNum: 41
     duration: 1
 
   - title: Online-Learning + Project
     description: |
       This is prime time!
-      You will work in a project team on a topic.
-
-      You team up as a group of 3-5 Techies and work together to create something big.
+      You will work with your project team on a specific self-sacrificed topic. Don't worry we will give you an overall project subject you can use as an orientation.
+      
       Experienced mentors will be on your side for support.
+      
     startWeekNum: 42
     duration: 3
 
