@@ -19,17 +19,17 @@
 
 - slug: project registration
   name: Deadline Registration for Project Phase
-  date: "2020-09-29T23:59:59+02:00"
+  date: "2020-09-29T23:00:00+02:00"
   description: |
     Last Call! Today is the DEADLINE for register to the #codeathome Project Phase!
 
     **DEADLINE Registration Project Phase: 29 September 2020, 11 PM CEST!**
 
-    Please check out our #codeathome Project Registration Guide for more information and a step-by-step guide on how to fill out the registration form correct: [https://www.notion.so/techlabs/codeathome-Project-Registration-ba287ba4919540178ec2057ff11e69f6](https://www.notion.so/techlabs/codeathome-Project-Registration-ba287ba4919540178ec2057ff11e69f6)
+    Please check out our #codeathome Project Registration Guide Notion Page for more information and a step-by-step guide on how to fill out the registration form correct.
 
     Our #codeathome Project Phase will take place from 05 October until 31 October 2020.
 
-    *More information will follow...*
+    *More information will follow! Check out our #codeathome Slack Channels...*
 
   todos:
   - name: Deadline Registration for Project Phase
