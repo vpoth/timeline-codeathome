@@ -48,3 +48,14 @@
 
   todos:
   - name: 50% of the online-learning completed
+
+- slug: 75percent
+  name: 75% of the online-learning done
+  date: "2020-10-15T23:59:59+02:00"
+  description: |
+    Until today we encourage you to have finished **75%** of the online-learning in edyoucated.
+
+    *Don't worry if you are behind, this is only a recommendation from our side.*
+
+  todos:
+  - name: 75% of the online-learning completed
